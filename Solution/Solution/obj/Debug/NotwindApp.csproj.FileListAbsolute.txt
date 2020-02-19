@@ -1,0 +1,17 @@
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\29.11.2019\Model\Solution\Solution\Solution\bin\Debug\Solution.exe.config
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\29.11.2019\Model\Solution\Solution\Solution\bin\Debug\Solution.exe
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\29.11.2019\Model\Solution\Solution\Solution\bin\Debug\Solution.pdb
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\29.11.2019\Model\Solution\Solution\Solution\obj\Debug\NotwindApp.csprojResolveAssemblyReference.cache
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\29.11.2019\Model\Solution\Solution\Solution\obj\Debug\Solution.Properties.Resources.resources
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\29.11.2019\Model\Solution\Solution\Solution\obj\Debug\NotwindApp.csproj.GenerateResource.Cache
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\29.11.2019\Model\Solution\Solution\Solution\obj\Debug\Solution.exe
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\29.11.2019\Model\Solution\Solution\Solution\obj\Debug\Solution.pdb
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Model\Solution\Solution\Solution\bin\Debug\Solution.exe.config
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Model\Solution\Solution\Solution\obj\Debug\Solution.exe
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Model\Solution\Solution\Solution\obj\Debug\Solution.pdb
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Model\Solution\Solution\Solution\bin\Debug\Solution.exe
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Model\Solution\Solution\Solution\bin\Debug\Solution.pdb
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Model\Solution\Solution\Solution\obj\Debug\Solution.Properties.Resources.resources
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Model\Solution\Solution\Solution\obj\Debug\NotwindApp.csproj.GenerateResource.Cache
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Model\Solution\Solution\Solution\obj\Debug\NotwindApp.csprojResolveAssemblyReference.cache
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Model\Solution\Solution\Solution\obj\Debug\Solution.Form1.resources

@@ -1,0 +1,296 @@
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\roslyn\csc.exe
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\WebApplication1.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\WebApplication1.pdb
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\EntityFramework.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\Microsoft.Owin.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\Microsoft.Owin.Security.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\Owin.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\System.Web.Providers.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\WebGrease.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\EntityFramework.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\System.Web.Providers.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\Microsoft.Owin.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\Microsoft.Owin.Security.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\obj\Debug\WebAppNorthwind.csprojResolveAssemblyReference.cache
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\BussinesServices.cs.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\DAL.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\Model.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\Solution.exe
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\BussinesServices.cs.pdb
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\DAL.pdb
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\Model.pdb
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\November\29.11.2019\Solution\WebApplication1\bin\Solution.pdb
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\roslyn\csc.exe
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\WebApplication1.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\WebApplication1.pdb
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\BussinesServices.cs.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\DAL.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\EntityFramework.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.Security.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Model.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Owin.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Solution.exe
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\System.Web.Providers.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\WebGrease.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\BussinesServices.cs.pdb
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\DAL.pdb
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Model.pdb
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Solution.pdb
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\EntityFramework.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\System.Web.Providers.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.Security.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\obj\Debug\WebAppNorthwind.csprojResolveAssemblyReference.cache
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\roslyn\csc.exe
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\WebApplication1.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\WebApplication1.pdb
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\BussinesServices.cs.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\DAL.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\EntityFramework.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.Security.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Model.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Owin.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Solution.exe
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\System.Web.Providers.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\WebGrease.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\BussinesServices.cs.pdb
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\DAL.pdb
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Model.pdb
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Solution.pdb
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\EntityFramework.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\System.Web.Providers.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.Security.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\obj\Debug\WebAppNorthwind.csprojResolveAssemblyReference.cache
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\darko.vasiljevic\Desktop\ENG\Obuka\December\19.12.2019 !\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\roslyn\csc.exe
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\WebApplication1.dll
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\WebApplication1.pdb
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\BussinesServices.cs.dll
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\DAL.dll
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\EntityFramework.dll
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.dll
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.Security.dll
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Model.dll
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Owin.dll
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Solution.exe
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\System.Web.Providers.dll
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\WebGrease.dll
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\BussinesServices.cs.pdb
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\DAL.pdb
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Model.pdb
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Solution.pdb
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\EntityFramework.xml
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\System.Web.Providers.xml
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.xml
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.Security.xml
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\obj\Debug\WebAppNorthwind.csprojResolveAssemblyReference.cache
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\darko.vasiljevic\Desktop\Solution_LogIn_with_AUTENTIFICATION\Solution\WebApplication1\obj\Debug\WebApplication1.pdb
